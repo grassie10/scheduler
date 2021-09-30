@@ -28,6 +28,11 @@
   color: #61dafb;
 }
 
+.course-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(12rem, 17rem));
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
