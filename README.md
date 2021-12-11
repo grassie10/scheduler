@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# CS 397 Rapid Prototyping: Scheduler
+
+Live site can be viewed here: [https://scheduler-grassie10.web.app/](https://scheduler-grassie10.web.app/)
+
+A web app that can be used to view available CS classes and select a CS course schedule that avoids time conflicts.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
